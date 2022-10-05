@@ -1,6 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+<h1 align="center"><Hi 👋, I'm Enes/></h1>
+<h3 align="center">A Software-Engineering Trainee from Germany!</h3>
   
 
 ### <div align="center">I'm Enes, a Software-Engineering trainee from Germany since 2021 🚀</div>  
